@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "latitude": 34.0564,
+        "longitude": -117.8216,
+        "price": "$2-$6",
+        "title": "Tacos El Camino",
+        "numberOfStars": 5,
+        "rating": 4.8,
+        "image": "https://example.com/tacos_el_camino.jpg"
+    },
+    {
+        "id": 2,
+        "latitude": 34.0569,
+        "longitude": -117.8223,
+        "price": "$5-$10",
+        "title": "Burgers and Fries Forever",
+        "numberOfStars": 5,
+        "rating": 4.5,
+        "image": "https://example.com/burgers_fries_forever.jpg"
+    },
+    {
+        "id": 3,
+        "latitude": 34.0558,
+        "longitude": -117.8205,
+        "price": "$3-$7",
+        "title": "Veggie Delight Express",
+        "numberOfStars": 5,
+        "rating": 4.6,
+        "image": "https://example.com/veggie_delight_express.jpg"
+    },
+    {
+        "id": 4,
+        "latitude": 34.0547,
+        "longitude": -117.8198,
+        "price": "$1-$5",
+        "title": "Ice Cream Dreams",
+        "numberOfStars": 4,
+        "rating": 4.7,
+        "image": "https://example.com/ice_cream_dreams.jpg"
+    },
+    {
+        "id": 5,
+        "latitude": 34.0572,
+        "longitude": -117.8228,
+        "price": "$4-$8",
+        "title": "Sushi on Wheels",
+        "numberOfStars": 5,
+        "rating": 4.9,
+        "image": "https://example.com/sushi_on_wheels.jpg"
+    }
+]
